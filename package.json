@@ -27,6 +27,7 @@
     "three": "^0.130.1"
   },
   "devDependencies": {
+    "@react-three/drei": "^7.2.2",
     "@react-three/fiber": "^7.0.6",
     "@react-three/xr": "^3.1.2",
     "@types/react-helmet": "^6.1.2",

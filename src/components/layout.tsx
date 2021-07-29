@@ -13,9 +13,6 @@ const Layout: React.FC = ({ children }) => {
 			<Main>
 				{children}
 			</Main>
-			<Footer>
-				footer
-			</Footer>
 		</Root>
 		</>
 	)
